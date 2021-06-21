@@ -1,0 +1,13 @@
+1624265917971	Extract constant 'ERROR'
+1624266053545	Convert local variable 'select' to field
+1624266087154	Convert local variable 'num1' to field
+1624266094762	Convert local variable 'num2' to field
+1624266269092	Extract method 'suma'
+1624266286228	Extract method 'restar'
+1624266303015	Extract method 'multiplicar'
+1624266319275	Extract method 'dividir'
+1624266435916	Extract method 'pedir2Numeros'
+1624266559414	Delete element
+1624266677440	Extract interface 'suma'
+1624266703888	Delete element
+1624266876707	Delete element
